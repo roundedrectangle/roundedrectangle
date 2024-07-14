@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on SailDiscord
 - 🌱 I’m currently (wanting to learn) learning more on Python
 - 📫 How to reach me: make an issue on this repo
-- Discord [server](https://discord.gg/j7zRh2gkGc)
+- Discord [server](https://discord.gg/Q3u7ejjzFg)
 - See my [gists](https://gists.github.com/roundedrectangle)
 
 <!---
