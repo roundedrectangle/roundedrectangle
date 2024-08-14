@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on SailDiscord
 - 🌱 I’m currently (wanting to learn) learning more on Python
-- 📫 How to reach me: make an issue on this repo
-- Discord [server](https://discord.gg/Q3u7ejjzFg)
+- 📫 How to reach me: Discord [server](https://discord.gg/Q3u7ejjzFg), Reddit: roundedrectangle0
 - See my [gists](https://gists.github.com/roundedrectangle)
 
 <!---
