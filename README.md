@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on SailDiscord
-- 🌱 I’m currently (wanting to learn) learning more on Python
+- 🌱 I’m currently learning how to touch grass
 - 📫 How to reach me: Discord [server](https://discord.gg/Q3u7ejjzFg), Reddit: roundedrectangle0
 - See my [gists](https://gists.github.com/roundedrectangle)
 
