@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Sailcord and RoundedRestore
 - 💬 Interested in Sailcord? Join my special Telegram [channel](https://t.me/saildiscord) focused exclusively SailDiscord news!
 - 🌱 I’m currently learning how to touch grass
-- 📫 How to reach me: Discord [server](https://discord.gg/Q3u7ejjzFg). Sailcord news are no longer there.
+- 📫 How to reach me: Join the Discord [SailfishOS Fan Club](https://discord.gg/Q3u7ejjzFg)!
 - See my [gists](https://gists.github.com/roundedrectangle)
 
 My projects:
