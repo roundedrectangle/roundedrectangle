@@ -15,3 +15,6 @@ My projects:
 - [Personal website](https://roundedrectangle.github.io): under construction
 
 ![](https://raw.githubusercontent.com/roundedrectangle/roundedrectangle/output/github-contribution-grid-snake.svg)
+
+
+you can donate here https://www.donationalerts.com/r/roundedrectangle, highly not recommended as i don't want my hobby to be monetized and donating does not mean i will work on my projects more
