@@ -9,9 +9,10 @@
 My projects:
 
 - [Sailcord](https://github.com/roundedrectangle/SailDiscord): A SailfishOS Discord client
+- [Ferniegram](https://github.com/roundedrectangle/harbour-fernschreiber2): A fork of [Fernschreiber](https://github.com/Wunderfitz/harbour-fernschreiber)
 - [SShazam](https://github.com/roundedrectangle/harbour-sshazam): Shazam for SailfishOS
-- [SaiLLM](https://github.com/roundedrectangle/harbour-saillm): A universal client for various LLM services, mainly for Ollama
-- [harbour-waydroid-companion](https://github.com/roundedrectangle/harbour-waydroid-companion): A WIP app for improving your Waydroid on SailfishOS experience. Stale right now
+- [SaiLLM](https://github.com/roundedrectangle/harbour-saillm): A universal client for various LLM services, mainly for Ollama. Stale
+- [harbour-waydroid-companion](https://github.com/roundedrectangle/harbour-waydroid-companion): A WIP app for improving your Waydroid on SailfishOS experience. Archived and stale
 - [Personal website](https://roundedrectangle.github.io): under construction
 
 ![](https://raw.githubusercontent.com/roundedrectangle/roundedrectangle/output/github-contribution-grid-snake.svg)
