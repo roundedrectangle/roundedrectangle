@@ -1,24 +1,23 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Sailcord and SaiLLM
+<a rel="me" href="https://techhub.social/@roundedrectangle">Mastodon</a>
+
+- 🔭 I’m (usually) working on Sailcord
 - 💬 Interested in my apps? Join my Telegram [channel](https://t.me/saildiscord)!
-- 🌱 I’m currently learning how to touch grass
-- 📫 How to reach me: Join the Discord [SailfishOS Fan Club](https://discord.gg/Q3u7ejjzFg)!
-- See my [gists](https://gists.github.com/roundedrectangle)
+- 🌱 I’m successfully learned how to touch grass and am in search of a new topic now!
+- 📫 You can also join the Discord [SailfishOS Fan Club](https://discord.gg/Q3u7ejjzFg) (I am not as active there nowadays and am more active on Telegram)
+- Check out [gists](https://gists.github.com/roundedrectangle)
 
 My projects:
 
-- [Sailcord](https://github.com/roundedrectangle/SailDiscord): A SailfishOS Discord client
-- [Ferniegram](https://github.com/roundedrectangle/harbour-fernschreiber2): A fork of [Fernschreiber](https://github.com/Wunderfitz/harbour-fernschreiber)
-- [SShazam](https://github.com/roundedrectangle/harbour-sshazam): Shazam for SailfishOS
-- [SaiLLM](https://github.com/roundedrectangle/harbour-saillm): A universal client for various LLM services, mainly for Ollama. Stale
-- [harbour-waydroid-companion](https://github.com/roundedrectangle/harbour-waydroid-companion): A WIP app for improving your Waydroid on SailfishOS experience. Archived and stale
-- [Personal website](https://roundedrectangle.github.io): under construction
+- [Sailcord](https://github.com/roundedrectangle/SailDiscord): A SailfishOS Discord client (PRs are (mostly) welcome!)
+<!--- [Ferniegram](https://github.com/roundedrectangle/harbour-fernschreiber2): secret!-->
+- [SShazam](https://github.com/roundedrectangle/harbour-sshazam): Shazam for SailfishOS. Works but could be improved
+- - [Personal website](https://roundedrectangle.github.io): under construction
+  - - [SaiLLM](https://github.com/roundedrectangle/harbour-saillm): A universal client for various LLM services, mainly for Ollama. Stale
+- [harbour-waydroid-companion](https://github.com/roundedrectangle/harbour-waydroid-companion): An unfinished app for improving your Waydroid on SailfishOS experience. Archived and stale
 
 ![](https://raw.githubusercontent.com/roundedrectangle/roundedrectangle/output/github-contribution-grid-snake.svg)
 
 
-you can donate here https://www.donationalerts.com/r/roundedrectangle, highly not recommended as i don't want my hobby to be monetized and donating does not mean i will work on my projects more
-
-
-<a rel="me" href="https://techhub.social/@roundedrectangle">Mastodon</a>
+you can donate here https://www.donationalerts.com/r/roundedrectangle (but I will not do something specific you could want for donations)
