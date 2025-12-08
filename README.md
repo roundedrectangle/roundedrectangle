@@ -4,7 +4,7 @@
 
 - 🔭 I’m (usually) working on Sailcord
 - 💬 Interested in my apps? Join my Telegram [channel](https://t.me/saildiscord)!
-- 🌱 I’m successfully learned how to touch grass and am in search of a new topic now!
+- 🌱 I successfully learned how to touch grass and am in search of a new topic now!
 - 📫 You can also join the Discord [SailfishOS Fan Club](https://discord.gg/Q3u7ejjzFg) (I am not as active there nowadays and am more active on Telegram)
 - View my [gists](https://gists.github.com/roundedrectangle)
 
