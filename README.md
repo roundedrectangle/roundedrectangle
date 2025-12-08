@@ -10,8 +10,8 @@
 
 My projects:
 
+<!--- [Ferniegram](https://github.com/roundedrectangle/harbour-fernschreiber2): secret!,,-->
 - [Sailcord](https://github.com/roundedrectangle/SailDiscord): A SailfishOS Discord client (PRs are (mostly) welcome!)
-<!--- [Ferniegram](https://github.com/roundedrectangle/harbour-fernschreiber2): secret!-->
 - [SShazam](https://github.com/roundedrectangle/harbour-sshazam): Shazam for SailfishOS. Works but could be improved
 - - [Personal website](https://roundedrectangle.github.io): under construction
   - - [SaiLLM](https://github.com/roundedrectangle/harbour-saillm): A universal client for various LLM services, mainly for Ollama. Stale
