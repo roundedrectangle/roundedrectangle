@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<a rel="me" href="https://techhub.social/@roundedrectangle">Mastodon</a>
+<a rel="me" href="https://techhub.social/@roundedrectangle">Mastodon</a>, [Telegram channel](https://t.me/saildiscord), [Discord SFOS Fan Club](https://discord.gg/Q3u7ejjzFg) (less active nowadays)
 
 - 🔭 I’m (usually) working on Sailcord
 - 💬 Interested in my apps? Join my Telegram [channel](https://t.me/saildiscord)!
 - 🌱 I’m successfully learned how to touch grass and am in search of a new topic now!
 - 📫 You can also join the Discord [SailfishOS Fan Club](https://discord.gg/Q3u7ejjzFg) (I am not as active there nowadays and am more active on Telegram)
-- Check out [gists](https://gists.github.com/roundedrectangle)
+- View my [gists](https://gists.github.com/roundedrectangle)
 
 My projects:
 
