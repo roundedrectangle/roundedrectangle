@@ -20,4 +20,4 @@ My projects:
 ![](https://raw.githubusercontent.com/roundedrectangle/roundedrectangle/output/github-contribution-grid-snake.svg)
 
 
-you can donate here https://www.donationalerts.com/r/roundedrectangle (but I will not do something specific you could want for donations)
+You can donate [here](https://www.donationalerts.com/r/roundedrectangle)
