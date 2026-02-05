@@ -18,6 +18,3 @@ My projects:
 - [harbour-waydroid-companion](https://github.com/roundedrectangle/harbour-waydroid-companion): An unfinished app for improving your Waydroid on SailfishOS experience. Archived and stale
 
 ![](https://raw.githubusercontent.com/roundedrectangle/roundedrectangle/output/github-contribution-grid-snake.svg)
-
-
-You can donate [here](https://www.donationalerts.com/r/roundedrectangle)
